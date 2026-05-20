@@ -228,7 +228,7 @@ git push origin feature/new-feature
 
 ## 📄 License
 
-MIT © [your-username](https://github.com/your-username)
+Lelepssz
 
 ---
 
