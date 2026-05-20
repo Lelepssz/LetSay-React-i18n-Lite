@@ -226,12 +226,6 @@ git push origin feature/new-feature
 
 ---
 
-## 📄 License
-
-Lelepssz
-
----
-
 <div align="center">
 
 Made with ☕ and without unnecessary `node_modules`.
